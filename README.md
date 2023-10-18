@@ -1,2 +1,2 @@
 ## Midterm Assignment
-Alisher Yanthizhaov & Justin Reyes
+**Alisher Yantizhaov & Justin Reyes**
