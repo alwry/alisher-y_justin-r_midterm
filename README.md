@@ -1,3 +1,2 @@
-##Midterm assignment
-aiufeeaufuf
+## Midterm Assignment
 **Alisher Yantizhaov & Justin Reyes**
