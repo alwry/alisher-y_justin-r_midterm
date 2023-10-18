@@ -1,1 +1,2 @@
-# alisher-y_justin-r_midterm
+## Midterm Assignment
+**Alisher Yantizhaov & Justin Reyes**
